@@ -1,0 +1,13 @@
+div#lousa{
+    background-color: rgb(2, 61, 2);
+    color: white;
+    width: 95%;
+    height: 500px;
+    margin: auto;
+    font-size: 90px;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
